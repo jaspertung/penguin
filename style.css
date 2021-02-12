@@ -1,5 +1,5 @@
 body {
-    background-color: aliceblue;
+    background-color: #c6faf1;
 }
 
 .penguin * {
@@ -21,7 +21,7 @@ body {
     margin: auto;
     display: block;
     position: relative;
-    margin-top: 20%;
+    margin-top: 10%;
 }
 
 .penguin-top {
